@@ -58,11 +58,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nitikachauhann&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nitikachauhann&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=nitikachauhann&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nitikachauhann&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikachauhann&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikachauhann&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/><br/>
