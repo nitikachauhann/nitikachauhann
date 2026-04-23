@@ -50,7 +50,7 @@
 <br/>
 
 <div align="center">
-  <img src="<img src="https://ghchart.rshah.org/nitikachauhann" />
+  <img src="https://ghchart.rshah.org/nitikachauhann" />
 </div>
 
 <br/>
