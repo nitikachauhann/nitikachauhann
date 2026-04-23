@@ -59,12 +59,10 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nitikachauhann&theme=react&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nitikachauhann&show_icons=true&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nitikachauhann&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nitikachauhann&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-
-  <!-- MOST USED LANGUAGES (CLEANED + ACCURATE) -->
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikachauhann&layout=compact&theme=react&border_radius=10&langs_count=6&hide=css,html" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikachauhann&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <br/><br/>
