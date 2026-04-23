@@ -44,17 +44,6 @@
 <br/>
 <hr/>
 
-
-<h2 align="center">📈 Contribution Activity</h2>
-<br/>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/green/nitikachauhann" />
-</div>
-
-<br/>
-<hr/>
-
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 
