@@ -45,39 +45,12 @@
 <br/>
 <hr/>
 
-<h2 align="center">🚀 Featured Projects</h2>
-<br/>
-
-<div align="center">
-
-🔹 <b>Library Management System</b><br/>
-Full-stack system with authentication, book issuing, and fine tracking  
-
-<br/>
-
-🔹 <b>Food Delivery Route Optimizer</b><br/>
-DFS + TSP based smart delivery scheduling system  
-
-<br/>
-
-🔹 <b>AI Document Summarizer</b><br/>
-Summarizes large text using AI APIs with clean UI  
-
-<br/>
-
-🔹 <b>Mood Mirror Journal App</b><br/>
-Mood tracking + journaling with backend storage  
-
-</div>
-
-<br/>
-<hr/>
 
 <h2 align="center">📈 Contribution Activity</h2>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitikachauhann&theme=react-dark&hide_border=true" />
+  <img src="<img src="https://ghchart.rshah.org/nitikachauhann" />
 </div>
 
 <br/>
