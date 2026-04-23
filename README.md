@@ -49,7 +49,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/nitikachauhann" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitikachauhann&theme=react-dark&hide_border=true" />
 </div>
 
 <br/>
