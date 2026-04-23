@@ -50,16 +50,22 @@
 
 <div align="center">
 
-🔹 **Library Management System**  
+🔹 <b>Library Management System</b><br/>
 Full-stack system with authentication, book issuing, and fine tracking  
 
-🔹 **Food Delivery Route Optimizer**  
+<br/>
+
+🔹 <b>Food Delivery Route Optimizer</b><br/>
 DFS + TSP based smart delivery scheduling system  
 
-🔹 **AI Document Summarizer**  
+<br/>
+
+🔹 <b>AI Document Summarizer</b><br/>
 Summarizes large text using AI APIs with clean UI  
 
-🔹 **Mood Mirror Journal App**  
+<br/>
+
+🔹 <b>Mood Mirror Journal App</b><br/>
 Mood tracking + journaling with backend storage  
 
 </div>
@@ -67,13 +73,26 @@ Mood tracking + journaling with backend storage
 <br/>
 <hr/>
 
+<h2 align="center">📈 Contribution Activity</h2>
+<br/>
+
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitikachauhann&theme=react-dark&hide_border=true" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<br>
+
+<div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nitikachauhann&theme=react&border_radius=10" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nitikachauhann&show_icons=true&theme=react&border_radius=10" />
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikachauhann&layout=compact&theme=react&border_radius=10" />
+
+  <!-- MOST USED LANGUAGES (CLEANED + ACCURATE) -->
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikachauhann&layout=compact&theme=react&border_radius=10&langs_count=6&hide=css,html" />
 </div>
 
 <br/><br/>
